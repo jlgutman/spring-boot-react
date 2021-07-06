@@ -10,8 +10,12 @@ Steps to Run:
 ============================================
 
 Pasos para correr:
-1. Clonar el proyecto usando `git clone` y la url del proyecto Git... o doscargar como archivo zip y descomprimir en tu workspace
+1. Clonar el proyecto usando `git clone` + la url del proyecto Git... o descargar como archivo zip y descomprimir en tu workspace
 2. Importar este proyecto como 'Maven Project' en tu IDE, ya sea eclipse o intellij
 3. Actualizar las dependencias maven usando el plugin de Maven
 4. Ejecutar el proyecto como una Boot App
 5. Escribir en tu navegador http://localhost:8080
+
+Requirements:
+Java 8+
+SpringToolSuite 4+
